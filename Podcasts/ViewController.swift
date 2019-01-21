@@ -7,14 +7,19 @@
 //
 
 import UIKit
-
+import SnapKit
 class ViewController: UIViewController {
+    lazy var box = UIView()
 
+    @IBOutlet weak var aminationView: UIView!
     override func viewDidLoad() {
+        
+
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+
     }
-
-
+        
 }
+
+
 
