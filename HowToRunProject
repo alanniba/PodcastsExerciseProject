@@ -1,0 +1,12 @@
+terminal
+  cd fileLocation
+  init pod
+  install pod
+  //copy following code to your podFile
+  install pod
+  
+  pod 'Alamofire', '~> 4.7'
+	pod 'SDWebImage', '~> 4.0'
+ 	pod 'FeedKit', '~> 8.0'
+	pod 'lottie-ios'
+	pod 'SnapKit', '~> 4.0.0'
